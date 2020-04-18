@@ -1,6 +1,6 @@
-name = "{{project-name}}"
+name = "cloudflare-internship"
 type = "javascript"
-account_id = ""
+account_id = "8ea0de02f72224409278a5a366e2b4be"
 workers_dev = true
 route = ""
 zone_id = ""
